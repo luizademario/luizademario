@@ -12,9 +12,9 @@ Atualmente estudo tecnologia, desenvolvimento web e programação, criando proje
 <p align="left">
     <a href="https://www.linkedin.com/in/luiz-ademario-5a6b12283/">
         <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Link..." 
+            title="Acessar LinkedIn" 
+            src="https://img.shields.io/badge/Link...-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
